@@ -1,0 +1,8 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/DownloadItemImage/1/1
+
+
+Request body not required.
+
+Response will be an image stream.
+

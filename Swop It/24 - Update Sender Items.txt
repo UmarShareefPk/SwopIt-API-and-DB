@@ -1,0 +1,8 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UpdateSenderItems
+
+{
+	"SwopRequestId": "5",
+	"SenderItems": "1,2,3"
+}
+
+{"Response":{"__type":"SwopRequestReponseReponse:#Albertomoll","Date":"02\/24\/2017 20:14:31","Reciever":"1009","RecieverItems":"6","Sender":"1008","SenderItems":"5","Status":"Reject","SwopRequestId":"4"},"ResponseCode":1}

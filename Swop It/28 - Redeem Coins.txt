@@ -1,0 +1,11 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/RedeemCoins
+
+{
+	"Name": "Umar",
+	"Coins": "100000",
+	"BankName": "JS",
+	"AccountNumber" : "783839"
+}
+
+
+{"Response":null,"ResponseCode":1}

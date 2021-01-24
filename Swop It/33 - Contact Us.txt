@@ -1,0 +1,9 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/ContactUs
+
+{
+	"UserId": "1",
+	"Email": "abc@yahoo.com",
+	"Message": "Test Message"
+}
+
+{"Response":null,"ResponseCode":1}

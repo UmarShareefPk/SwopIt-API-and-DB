@@ -1,0 +1,9 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/Swoppers
+
+{
+	"UserId": "1128",
+	"Distance": "7"
+	
+}
+
+{"Response":[{"__type":"UserDetailsResponse:#Albertomoll","About":"","Address":"","Coins":null,"Email":"jazib.babar@gmail.com","Latitude":"31.5862445","Longitude":"74.3264035","MoreInfo":"","Name":"Phase2","Phone":"65664","ProfilePicture":"","UserId":"1128","Username":"Phase2"},{"__type":"UserDetailsResponse:#Albertomoll","About":"","Address":"","Coins":null,"Email":"jazib.babar@gmail.com","Latitude":"31.5862335","Longitude":"74.3264183","MoreInfo":"","Name":"Jazib","Phone":"94497","ProfilePicture":"","UserId":"1081","Username":"JazibNew"},{"__type":"UserDetailsResponse:#Albertomoll","About":"","Address":"","Coins":null,"Email":"jazib.babar@gmail.com","Latitude":"31.5860151","Longitude":"74.32786881","MoreInfo":"","Name":"BrandNew","Phone":"3161","ProfilePicture":"","UserId":"1115","Username":"BrandNew"},{"__type":"UserDetailsResponse:#Albertomoll","About":"","Address":"","Coins":null,"Email":"jazib.babar@gmail.com","Latitude":"31.5877284","Longitude":"74.3282742","MoreInfo":"","Name":"BrandNew1","Phone":"6464","ProfilePicture":"","UserId":"1116","Username":"BrandNew1"},{"__type":"UserDetailsResponse:#Albertomoll","About":"Here's BDD hehebbsbdbd ","Address":"","Coins":null,"Email":"jazib.babar@gmail.com","Latitude":"31.5877136","Longitude":"74.3285034","MoreInfo":"Bs sb sb give ","Name":"Hshbxbshszbyehs","Phone":"616494","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1073.png","UserId":"1073","Username":"JazibBabar"}],"ResponseCode":1}

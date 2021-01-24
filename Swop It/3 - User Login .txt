@@ -1,0 +1,22 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/Login
+
+
+
+
+{	
+		"Password": "Password",
+		"Username": "Umar"		
+
+}
+
+Login Success
+
+{"Response":{"__type":"UserDetailsResponse:#Albertomoll","About":"About","Address":"Address","Email":"Umar@swopit.com","Latitude":"33.7294","Longitude":"73.0931","MoreInfo":"More Information","Name":"Umar","Phone":"090078601","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/2.png","UserId":"2"},"ResponseCode":1}
+
+Login Failed
+
+{"Response":"Invalid Username or Password.","ResponseCode":2}
+
+
+NOTE : Reponse will return user details in case of right credentials.

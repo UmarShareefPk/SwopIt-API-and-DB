@@ -1,0 +1,7 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UploadItemImage/1/1
+
+Requet will have image stream. Pass Item Id and Image number in URL.  ItemId/Image Number
+
+
+{"UploadItemImageResult":{"Response":null,"ResponseCode":1}}
+

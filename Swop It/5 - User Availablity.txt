@@ -1,0 +1,20 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UserAvailablity
+
+
+
+
+{			
+	"Username": "Umar"		
+	
+}
+
+
+Not avaialable
+
+{"Response":"Username is not available","ResponseCode":6}
+
+
+Available
+
+{"Response":"Username is available.","ResponseCode":1}

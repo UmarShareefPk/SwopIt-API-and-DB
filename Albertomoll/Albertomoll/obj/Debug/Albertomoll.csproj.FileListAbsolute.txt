@@ -1,0 +1,9 @@
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\bin\Albertomoll.dll.config
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\bin\Albertomoll.dll
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\bin\Albertomoll.pdb
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\bin\log4net.dll
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\bin\Newtonsoft.Json.dll
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\obj\Debug\Albertomoll.csprojResolveAssemblyReference.cache
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\obj\Debug\Albertomoll.dll
+C:\Users\ushareef\documents\visual studio 2015\Projects\Albertomoll\Albertomoll\obj\Debug\Albertomoll.pdb

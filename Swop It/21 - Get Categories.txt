@@ -1,0 +1,4 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/GetCategories
+
+
+{"Response":[{"__type":"Category:#Albertomoll","Name":"Fashion","subCategory":[{"Id":"1","Name":"Accessories"},{"Id":"3","Name":"Dress"},{"Id":"4","Name":"Shoes"}]},{"__type":"Category:#Albertomoll","Name":"Electronics","subCategory":[{"Id":"5","Name":"Mobile"},{"Id":"6","Name":"iPad & Laptops"},{"Id":"7","Name":"Electronics"}]},{"__type":"Category:#Albertomoll","Name":"Book & Art","subCategory":[{"Id":"8","Name":"Art"},{"Id":"10","Name":"Books"},{"Id":"11","Name":"Films"}]}],"ResponseCode":1}

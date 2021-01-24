@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ushareef\Desktop\Alberto</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AlbertoMollWCF.svc">
+      <publishTime>01/28/2017 16:33:52</publishTime>
+    </File>
+    <File Include="bin/Albertomoll.dll">
+      <publishTime>06/14/2017 01:05:18</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>01/24/2017 12:12:25</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>01/23/2017 22:04:53</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Core.dll">
+      <publishTime>01/23/2017 22:05:04</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>01/23/2017 22:05:10</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/23/2013 17:03:24</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>01/23/2017 22:04:57</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/29/2017 23:14:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/14/2017 01:05:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

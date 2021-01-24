@@ -1,0 +1,21 @@
+http://localhost:2394/MobileDataService.svc/Login
+http://184.180.27.101/devservices/MobileDataService.svc/Login
+
+User-Agent: Fiddler
+Host: 184.180.27.101
+Content-Length: 45
+Content-Type: application/json; charset=UTF-8
+
+
+{"Username":"national","Password":"password"}
+
+{"Username":"acura","Password":"pass"}
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+Srkikkhh@1326
+192.168.122.20
+ ashfaq.ahmed
+

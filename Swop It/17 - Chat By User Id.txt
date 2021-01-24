@@ -1,0 +1,7 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/ChatByUserId
+
+{
+	"UserId": "1075"
+}
+
+{"Response":[{"__type":"UserDetailsResponse:#Albertomoll","About":"ggggshb","Address":"yybvbs. shhhs. bshjs shishe. djsjs hsjs. sjsjjs s ejsjjsbs ejdjsh ehdjsbebhhs","Coins":null,"Email":"nabeel@byzentium.com","Latitude":"32.5167466","Longitude":"74.5096005","MoreInfo":"tyhh hu hh hu 11","Name":"yybsbbss","Phone":"test","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1074.png","UserId":"1074","Username":"nabeel"}],"ResponseCode":1}

@@ -1,0 +1,12 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/AddChatMessage
+
+{
+
+	"Sender": "1008",
+	"Reciever": "1009",
+	"Message": "This is test message from User 1008 to User 1009."
+
+}
+
+
+{"Response":{"__type":"AddChatReponse:#Albertomoll","ChatId":"72","Date":"06\/13\/2017 19:23:33","Message":"This is test message from User 1008 to User 1009.","Reciever":{"About":"sad","Address":"Near Home 1","Coins":null,"Email":"as","Latitude":"33.671296","Longitude":"73.107021","MoreInfo":"sad","Name":"Near Home 1","Phone":"asd","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1009.png","UserId":"1009","Username":"Home1"},"Sender":{"About":"Home","Address":"Home","Coins":null,"Email":"Home","Latitude":"33.669261","Longitude":"73.106227","MoreInfo":"Home","Name":"Home","Phone":"Home","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1008.png","UserId":"1008","Username":"Home"}},"ResponseCode":1}

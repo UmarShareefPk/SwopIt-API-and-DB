@@ -1,0 +1,16 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UpdateUser
+
+
+
+{
+		"UserId": "1",
+		"Name": "M. Umar Shareef",
+		"Phone": "090078602",
+		"About": "About Me",
+		"MoreInfo": "More Information 777",
+		"Address": "Address 999"			
+}
+
+{"Response":{"__type":"UserDetailsResponse:#Albertomoll","About":"About Me","Address":"Address 999","Email":"UmarShareef@swopit.com","Latitude":"33.7295","Longitude":"73.0932","MoreInfo":"More Information 777","Name":"M. Umar Shareef","Phone":"090078602","UserId":"1"},"ResponseCode":1}
+

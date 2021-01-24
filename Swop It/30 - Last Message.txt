@@ -1,0 +1,7 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/LastMessage
+
+{
+	"UserId": "1128"	
+}
+
+{"Response":{"__type":"ChatReponse:#Albertomoll","ChatId":"47","Date":"06\/03\/2017 09:12:02","Message":"Hello","Reciever":"1133","RecieverProfilePic":null,"Sender":"1128","SenderProfilePic":null},"ResponseCode":1}

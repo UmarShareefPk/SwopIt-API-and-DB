@@ -1,0 +1,16 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/AddItem
+
+
+{
+		"ItemName": "Jacket",
+		"ItemDetails": "My Jacket",
+		"ItemCondition": "Old",
+		"CategoryId": "1",
+		"UserId": "1"
+	
+}
+
+
+{"Response":"3","ResponseCode":1}
+
+data contains id of item just added.s

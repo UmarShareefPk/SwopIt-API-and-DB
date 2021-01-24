@@ -1,0 +1,13 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UserById
+
+
+{
+	"UserId": "1"
+	
+}
+
+
+{"Response":{"__type":"UserDetailsResponse:#Albertomoll","About":"About","Address":"Address","Email":"Umar@swopit.com","Latitude":"33.7294","Longitude":"73.0931","MoreInfo":"More Information","Name":"Umar1","Phone":"090078601","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1052.png","UserId":"1052"},"ResponseCode":1}
+
+
+

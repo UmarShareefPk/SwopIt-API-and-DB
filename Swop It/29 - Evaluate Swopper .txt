@@ -1,0 +1,9 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/EvaluateSwopper
+
+{
+	"UserId": "1",
+	"Rater": "1008",
+	"Rating": "7"
+}
+
+{"Response":null,"ResponseCode":1}

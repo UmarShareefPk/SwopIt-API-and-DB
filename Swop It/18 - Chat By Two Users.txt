@@ -1,0 +1,8 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/ChatByTwoUsers
+
+{
+	"UserId": "1008",
+	"User2Id": "1009"
+}
+
+{"Response":[{"__type":"ChatReponse:#Albertomoll","ChatId":"20","Date":"05\/28\/2017 13:40:12","Message":"This is test message from User 1008 to User 1009.","Reciever":"1009","RecieverProfilePic":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1009.png","Sender":"1008","SenderProfilePic":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1008.png"},{"__type":"ChatReponse:#Albertomoll","ChatId":"2","Date":"05\/28\/2017 12:48:39","Message":"Message from 1009 to 1008","Reciever":"1008","RecieverProfilePic":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1008.png","Sender":"1009","SenderProfilePic":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1009.png"},{"__type":"ChatReponse:#Albertomoll","ChatId":"1","Date":"05\/28\/2017 12:48:37","Message":"Message from 1008 to 1009","Reciever":"1009","RecieverProfilePic":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1009.png","Sender":"1008","SenderProfilePic":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1008.png"}],"ResponseCode":1}

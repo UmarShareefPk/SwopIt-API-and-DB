@@ -1,0 +1,28 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/AddSwopRequest
+
+{
+	"Sender": "1132",
+	"Reciever": "1126",
+	"SwopType": "DS",
+	"SenderItems": "98,108",
+	"RecieverItems": "91,93"
+}
+
+{
+	"Sender": "1008",
+	"Reciever": "1009",
+	"SwopType": "Single",
+	"SenderItems": "7",
+	"RecieverItems": "8"
+}
+
+{
+	"Sender": "1008",
+	"Reciever": "1009",
+	"SwopType": "Coin",
+	"Coins": "400",
+	"RecieverItems": "6,8"
+}
+
+
+{"Response":{"__type":"SwopRequestResponse:#Albertomoll","Coins":"","Date":"06\/13\/2017 19:08:45","Reciever":{"About":"","Address":"","Coins":null,"Email":"jimmyk@gmail.com","Latitude":"31.5149854","Longitude":"74.2892703","MoreInfo":"","Name":"jimmy","Phone":"04046468484","ProfilePicture":"","UserId":"1126","Username":"jimmy"},"RecieverItems":[{"Category":"3","Condition":"New","Details":"shaffon cloth","ItemId":"91","Name":"Black Dress","PostDate":"05\/06\/2017 18:29:45","Urls":["http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/91\/1.png"],"User":{"About":"","Address":"","Coins":null,"Email":"jimmyk@gmail.com","Latitude":"31.5149854","Longitude":"74.2892703","MoreInfo":"","Name":"jimmy","Phone":"04046468484","ProfilePicture":"","UserId":"1126","Username":"jimmy"}},{"Category":"3","Condition":"New","Details":"bridal dress","ItemId":"93","Name":"Bridal dress","PostDate":"05\/06\/2017 19:55:03","Urls":["http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/93\/1.png","http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/93\/2.png"],"User":{"About":"","Address":"","Coins":null,"Email":"jimmyk@gmail.com","Latitude":"31.5149854","Longitude":"74.2892703","MoreInfo":"","Name":"jimmy","Phone":"04046468484","ProfilePicture":"","UserId":"1126","Username":"jimmy"}}],"Sender":{"About":"","Address":"","Coins":null,"Email":"javyk@gmail.com","Latitude":"31.51577780365","Longitude":"74.2905492183113","MoreInfo":"","Name":"dfrgwbdydg","Phone":"737373737","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1132.png","UserId":"1132","Username":"javy"},"SenderItems":[{"Category":"10","Condition":"Old","Details":"Classy notebook","ItemId":"98","Name":"Notebook","PostDate":"05\/21\/2017 15:54:48","Urls":["http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/98\/1.png"],"User":{"About":"","Address":"","Coins":null,"Email":"javyk@gmail.com","Latitude":"31.51577780365","Longitude":"74.2905492183113","MoreInfo":"","Name":"dfrgwbdydg","Phone":"737373737","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1132.png","UserId":"1132","Username":"javy"}},{"Category":"6","Condition":"New","Details":"laptop 1","ItemId":"108","Name":"laptop 1","PostDate":"05\/22\/2017 17:42:38","Urls":["http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/108\/1.png"],"User":{"About":"","Address":"","Coins":null,"Email":"javyk@gmail.com","Latitude":"31.51577780365","Longitude":"74.2905492183113","MoreInfo":"","Name":"dfrgwbdydg","Phone":"737373737","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1132.png","UserId":"1132","Username":"javy"}}],"Status":"Pending","SwopRequestId":"166","SwopType":"DS"},"ResponseCode":1}

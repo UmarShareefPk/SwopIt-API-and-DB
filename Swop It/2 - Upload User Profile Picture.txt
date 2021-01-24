@@ -1,0 +1,10 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UploadProfilePicture/1
+
+
+Request body will have Image stream.
+
+
+{"UploadProfilePictureResult":{"Response":null,"ResponseCode":1}}
+
+

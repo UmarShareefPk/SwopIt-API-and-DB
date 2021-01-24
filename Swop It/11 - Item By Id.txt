@@ -1,0 +1,10 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/ItemById
+
+{
+	
+	"ItemId": "1"
+	
+}
+
+
+{"Response":{"__type":"ItemResponse:#Albertomoll","Category":"1","Condition":"Old","Details":"My Jacket","ItemId":"1","Name":"Jacket","PostDate":"02\/20\/2017 14:43:39","Urls":["http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/1\/1.png","http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/1\/2.png","http:\/\/swopit.azurewebsites.net\/Attachments\/Items\/1\/3.png"],"User":{"About":"About Me","Address":"Address 999","Email":"UmarShareef@swopit.com","Latitude":"33.7295","Longitude":"73.0932","MoreInfo":"More Information 888","Name":"M. Umar Shareef","Phone":"090078602","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1.png","UserId":"1","Username":"Jaz"}},"ResponseCode":1}

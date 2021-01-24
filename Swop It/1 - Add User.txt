@@ -1,0 +1,24 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/AddUser
+
+
+
+
+{	
+		"Name": "Umar1",
+		"Password": "Password",
+		"Username": "Umar19p91",
+		"Email": "Umar@swopit.com",
+		"Phone": "090078601",
+		"About": "About",
+		"MoreInfo": "More Information",
+		"Address": "Address",
+		"Longitude": "73.0931",
+		"Latitude": "33.7294"	
+}
+
+
+
+
+
+{"Response":{"__type":"UserDetailsResponse:#Albertomoll","About":"About","Address":"Address","Email":"Umar@swopit.com","Latitude":"33.7294","Longitude":"73.0931","MoreInfo":"More Information","Name":"Umar1","Phone":"090078601","ProfilePicture":"http:\/\/swopit.azurewebsites.net\/Attachments\/UserProfilePics\/1052.png","UserId":"1052"},"ResponseCode":1}

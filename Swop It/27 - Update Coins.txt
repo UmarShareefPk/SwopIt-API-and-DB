@@ -1,0 +1,8 @@
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/UpdateCoins
+
+{
+	"UserId": "1",	
+	"Coins": "300"
+}
+
+{"Response":null,"ResponseCode":1}

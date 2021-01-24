@@ -1,0 +1,9 @@
+
+http://swopit.azurewebsites.net/AlbertoMollWCF.svc/DownloadProfilePicture/1
+
+
+Request body not required.
+
+Response will be an image stream.
+
+NOTE : Request will have User Id in the URL. In this case User id is 1.
